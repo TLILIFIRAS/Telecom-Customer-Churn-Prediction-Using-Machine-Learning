@@ -1,6 +1,6 @@
 # Telecom Customer Churning Prediction Project
 
-![Project Image](project_image.png) *(Replace `project_image.png` with a relevant image from your project)*
+
 
 ## Table of Contents
 - [Introduction](#introduction)
