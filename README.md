@@ -29,12 +29,8 @@ To get started with this project, follow these installation steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/telecom-churn-prediction.git
+git clone https://github.com/TLILIFIRAS/Telecom-Customer-Churn-Prediction-Using-Machine-Learning.git
 cd telecom-churn-prediction
-
-# Download the dataset (if not included in the repository)
-wget https://example.com/datasets/telecom_churn.csv
-
 # Install the required Python packages (if not done already)
 pip install pandas matplotlib seaborn scikit-learn
 ```
